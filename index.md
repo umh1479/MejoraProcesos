@@ -1,6 +1,7 @@
 ## Bienvenidos al curso Mejora de Procesos
 
-En este repositorio tendrás acceso a todo el material de programación utilizado durante el curso Mejora de Procesos (1479) del Grado en Estadística Empresarial, así como indicaciones sobre cómo gestionar tú mismo/a tu propio repositorio en Github.
+Desde aquí puedes acceder a [mi REPOSITORIO en Github](https://github.com/umh1479/MejoraProcesos), desde el que tendrás acceso a todo el material de programación utilizado durante el curso Mejora de Procesos (1479) del Grado en Estadística Empresarial.
+A continuación comparto contigo enlaces para aprender más sobre Github, e indicaciones para crear y gestionar tú mismo/a tu propio repositorio en Github.
 
 ## Sobre Github
 
