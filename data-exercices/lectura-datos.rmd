@@ -1,2 +1,2 @@
 Para leer datos en este repositorio de Github desde R-Rstudio, utiliza
-datos=read.csv2("https://raw.githubusercontent.com/umh1479/MejoraProcesos/master/data-exercices/datos_catapulta.csv",sep=",")
+datos=read.csv2("https://raw.githubusercontent.com/umh1479/MejoraProcesos/master/data-exercices/datos_catapulta.csv",sep=",",header=TRUE)
